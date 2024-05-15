@@ -101,6 +101,7 @@ if __name__ == '__main__':
 
 Insert image here
 
+![Screenshot (12)](https://github.com/TEJA190905/mobilerobot-openloopcontrol/assets/167788543/8e697281-5ab7-4dfd-990c-6096093807f1)
 
 <br/>
 <br/>
@@ -111,7 +112,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+https://www.youtube.com/watch?v=cX6UhpQ8v6M
 
 <br/>
 <br/>
